@@ -2,9 +2,6 @@ name: Basic Pipeline
 
 on:
   push:
-    branches:
-      - main
-      - test-branch
 
 jobs:
   build:
